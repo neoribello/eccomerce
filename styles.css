@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 
 :root {
-  --primaryColor: #f09d51;
+  --primaryColor: #9291e7;
   --mainWhite: #fff;
   --mainBlack: #222;
   --mainGrey: #ececec;
@@ -179,7 +179,7 @@ body {
     width: 100%;
     height: 100%;
     transition: var(--mainTransition);
-    background: rgb(240, 157, 81, 0.5);
+    background: rgba(147, 145, 231, 0.507);
     z-index: 2;
     visibility: hidden;
   }
